@@ -1,0 +1,10 @@
+.p1 {
+    margin 20px; 30px; 40px; 50px;
+    border: solid blue; 
+    background-color: lightblue;
+}
+
+.p2 {
+    padding: 20px;
+    background-color: lightpink;
+border:solid black ;}

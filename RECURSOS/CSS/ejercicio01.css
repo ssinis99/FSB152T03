@@ -1,0 +1,19 @@
+.Parrafo1{color: blue;background-color: yellow;
+    width: 300;
+    padding: 40px;
+    height: auto;
+    margin-left: 20px; 
+    margin-right: 20px;
+border: solid black}
+
+.Parrafo2{background-color: green;color: red;width: 300px;
+padding: top 10px;
+padding-bottom: 10px;
+margin:center;
+border:solid gray}
+
+.Parrafo3{color: black; background-color: aqua;
+width: 50% container;
+padding: 20px;
+margin:center;
+border: solid brown;}

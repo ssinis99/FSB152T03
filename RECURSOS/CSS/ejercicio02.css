@@ -1,0 +1,29 @@
+.Imagen1{
+    display: block;
+    border: 10px solid black;
+}
+.Imagen2{
+    display: block;
+    border: 10px solid black;
+}
+.Imagen3{
+    display: block;
+    border: 10px solid black;
+}
+.Imagen4{
+    border: 10px solid black;
+    margin-left: 20px;
+}
+.Imagen5{
+    display: inline;
+    border: 10px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.Imagen6{
+    display: inline;
+    border: 10px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
